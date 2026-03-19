@@ -1,0 +1,8 @@
+node_modules/ .env *.zip .DS_Store *.log dist/build/ .expo/
+
+git ini
+git add .
+git commit -m "NEXO v3 - app de citas" 
+git branch  -M main
+git remote add origin https://github.con/alexa/nexo-app.git
+git push -u origin main
